@@ -82,7 +82,7 @@ echo "<h1> Mobile Page - $(hostname -f)</h1>" > /var/www/html/mobile/index.html
   - Home instance response  
   - Laptop instance response  
   - Mobile instance response  
-![Description of Image](images/DNS_name.PNG)
+![Description of Image](images/DNS_name.png)
 ---
 
 ## Expected Output
